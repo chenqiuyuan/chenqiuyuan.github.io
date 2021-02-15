@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 logo: 半身照(压缩).jpg
-title: "Qiuyuan Chen\n(陈秋远)"
+title: |+ 
+  Qiuyuan Chen
+  (陈秋远)
