@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages of Qiuyuan Chen
+## Welcome to Homepage of Qiuyuan Chen
 
 You can use the [editor on GitHub](https://github.com/chenqiuyuan/home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -20,6 +20,8 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+
+[Link](https://scholar.google.com/citations?user=pCvGsBkAAAAJ&hl=en)
 
 **Bold** and _Italic_ and `Code` text
 
