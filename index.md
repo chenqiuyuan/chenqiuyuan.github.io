@@ -49,11 +49,11 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ### Publication
 2021
 
-<strong>Qiuyuan Chen</strong>, Chunyang Chen, Safwat Hassan, Zhenchang Xing, Xin Xia, Ahmed E. Hassan. "How should I Improve the UI of My App: A Study of User Reviews of Popular Apps in the Google Play". In  ACM Transactions on Software Engineering and Methodology (TOSEM). <strong>(CCF Rank A)</strong> Accepted Journal.   <a href="TOSEM_Chen_2021_How Should I Improve the UI of My App.pdf" target="_blank">[PDF]</a>     <br />
+<strong>Qiuyuan Chen</strong>, Chunyang Chen, Safwat Hassan, Zhenchang Xing, Xin Xia, Ahmed E. Hassan. "How should I Improve the UI of My App: A Study of User Reviews of Popular Apps in the Google Play". In  ACM Transactions on Software Engineering and Methodology (TOSEM). <strong>(CCF Rank A)</strong> Journal Accepted.   <a href="TOSEM_Chen_2021_How Should I Improve the UI of My App.pdf" target="_blank">[PDF]</a>     <br />
 
 2020
 
-<strong>Qiuyuan Chen</strong>, Xin Xia, Han Hu, David Lo, Shanping Li. "Why My Code Summarization Model Does Not Work: Code Comment Improvement with Category Prediction". In  ACM Transactions on Software Engineering and Methodology (TOSEM). <strong>(CCF Rank A)</strong> Accepted Journal.     <a href="TOSEM_Qiuyuan_2021_Why My Code Summarization Model Does Not Work.pdf" target="_blank">[PDF]</a>     <br />
+<strong>Qiuyuan Chen</strong>, Xin Xia, Han Hu, David Lo, Shanping Li. "Why My Code Summarization Model Does Not Work: Code Comment Improvement with Category Prediction". In  ACM Transactions on Software Engineering and Methodology (TOSEM). <strong>(CCF Rank A)</strong> Journal Accepted.     <a href="TOSEM_Qiuyuan_2021_Why My Code Summarization Model Does Not Work.pdf" target="_blank">[PDF]</a>     <br />
 
 2019
 
@@ -65,7 +65,7 @@ Zhaoyi Liu, <strong>Qiuyuan Chen</strong>, Han Hu, Haoyu Tang, and Y. X. Zou, �
 
 Paper in Chinese
 
-<strong>陈秋远</strong>, 李善平, 鄢萌, 夏鑫. 代码克隆检测研究进展. 软件学报, 2019, <strong>（CCF 中文A类）（CCF Rank A in Chinese)</strong> 期刊已录用 <a href="软件学报_陈秋远_2019_代码克隆检测研究进展.pdf" target="_blank">[PDF]</a>   <br />
+<strong>陈秋远</strong>, 李善平, 鄢萌, 夏鑫. 代码克隆检测研究进展. 软件学报, 2019, <strong>（CCF 中文A类) (CCF Rank A in Chinese)</strong> 期刊已录用 <a href="软件学报_陈秋远_2019_代码克隆检测研究进展.pdf" target="_blank">[PDF]</a>   <br />
 
 2018
 
