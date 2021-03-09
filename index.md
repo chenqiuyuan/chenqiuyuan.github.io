@@ -5,7 +5,12 @@ You can use the [editor on GitHub](https://github.com/chenqiuyuan/home/edit/gh-p
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Affliation
-I am a Ph.D. in Zhejiang University.
+I am pursuing my Ph.D. in Zhejiang University.
+
+### Google Scholar
+[Direct link] to Google scholar page.
+
+[Direct link]: https://scholar.google.com/citations?user=pCvGsBkAAAAJ&hl=en
 
 ### Markdown
 
@@ -42,4 +47,14 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 ### Publication
-<a href="pdfs/ProjMarr_slides.pdf">([pdf])
+2021
+
+<strong>Qiuyuan Chen</strong>, Chunyang Chen, Safwat Hassan, Zhenchang Xing, Xin Xia, Ahmed E. Hassan. "How should I Improve the UI of My App: A Study of User Reviews of Popular Apps in the Google Play". In  ACM Transactions on Software Engineering and Methodology (TOSEM). <strong>CCF Rank A</strong> Accepted.   <a href="TOSEM_Qiuyuan_2021_Why My Code Summarization Model Does Not Work.pdf" target="_blank">[PDF]</a>     <br />
+
+2020
+
+<strong>Qiuyuan Chen</strong>, Xin Xia, Han Hu, David Lo, Shanping Li. "Why My Code Summarization Model Does Not Work: Code Comment Improvement with Category Prediction". In  ACM Transactions on Software Engineering and Methodology (TOSEM). <strong>CCF Rank A</strong> Accepted.     <a href="tosem206.pdf">[PDF]</a>     <br />
+
+2019
+
+2018
