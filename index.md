@@ -69,4 +69,4 @@ Paper in Chinese
 
 2018
 
-<strong>Qiuyuan Chen</strong>, Lingfeng Bao, Li Li, Xin Xia, Liang Cai. "Categorizing and Predicting Invalid Vulnerabilities on Common Vulnerabilities and Exposures". 25th Asia-Pacific Software Engineering Conference (APSEC 2018). <strong>(CCF Rank C)</strong> Accepted as a Full Paper. <a href="APSEC_Chen_2018_Categorizing and Predicting Invalid Vulnerabilitie.pdf">[PDF]</a>   <br />
+<strong>Qiuyuan Chen</strong>, Lingfeng Bao, Li Li, Xin Xia, Liang Cai. "Categorizing and Predicting Invalid Vulnerabilities on Common Vulnerabilities and Exposures". 25th Asia-Pacific Software Engineering Conference (APSEC 2018). <strong>(CCF Rank C)</strong> Accepted as a Full Paper. <a href="APSEC_Chen_2018_Categorizing and Predicting Invalid Vulnerabilitie.pdf" target="_blank">[PDF]</a>   <br />
