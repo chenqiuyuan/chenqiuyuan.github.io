@@ -1,4 +1,4 @@
-## Welcome to Homepage of Qiuyuan Chen
+## Welcome to Qiuyuan Chen's Homepage
 
 You can use the [editor on GitHub](https://github.com/chenqiuyuan/home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
