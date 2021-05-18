@@ -18,6 +18,7 @@ AI for Software Engineering, Data Minging, Documentation for SE.
 
 ### A picture of my research
 
+Documentation is one of the most important artifacts in software engineering. However, it is often not drawn attentioned.
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
