@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/chenqiuyuan/home/edit/gh-p
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Affliation
-I am pursuing my Ph.D. in Zhejiang University.
+I am pursuing my Ph.D. in Zhejiang University. I was an intern in Hengtian software. I was an intern in Tencent.
 
 ### Google Scholar
 [Direct link] to Google scholar page.
