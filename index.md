@@ -8,8 +8,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 陈秋远是浙江大学计算机科学与技术学院2017级博生，很荣幸在科研道路上获得李善平教授和夏鑫博士的指导。陈秋远的研究领域包括智能化软件工程与软件数据挖掘等，研究的主要对象是代码文档。在软件工程中，代码文档是帮助开发者理解程序的重要载体。他的研究致力于智能化的程序理解，达到自动化的文档生成，从而帮助提升软件统的开发效率与可维护性。陈秋远在读博期间，多篇学术论文发表于国内外期刊和会议，如软件工程顶期刊 ACM Transactions on Software Engineering and Methodologys（TOSEM)、软件学报等。
 
+</br>
+
 I am pursuing my Ph.D. in the School of Computing Science and Technology, Zhejiang University. 
-I am very fortunate to work under the supervision of Prof. Shanping Li and Dr. Xin Xia.
+I am very fortunate to work under the supervision of Prof. Shanping Li and [Dr. Xin Xia](xin-xia.github.io/).
 My research interests include intelligent software engineering and ming software data, etc. The research focus is code documentation, which is essential to help developers understand the program in software engineering. My research is dedicated to intelligent program comprehension and automatic document generation, thereby helping to improve the development efficiency and maintainability of the software system. During my Ph.D. study, many academic papers were published in Chinese and international journals and conferences, such as the top journal in software engineering: ACM Transactions on Software Engineering and Methodologys (TOSEM) and Jounal of Software, etc.
 
 ### Google Scholar
@@ -41,9 +43,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Publication
 2021
 
+<strong>Qiuyuan Chen</strong>, Chunyang Chen, Safwat Hassan, Zhenchang Xing, Xin Xia, Ahmed E. Hassan. "How should I Improve the UI of My App: A Study of User Reviews of Popular Apps in the Google Play". In  ACM Transactions on Software Engineering and Methodology (TOSEM). <strong>(CCF Rank A)</strong> Journal Accepted.   <a href="TOSEM_Chen_2021_How Should I Improve the UI of My App.pdf" target="_blank">[PDF]</a>     <br />
+
 Yuxing Hu, Meng Yan, Zhongxin Liu, <strong>Qiuyuan Chen</strong>, Bei Wang. "How should I Improve the UI of My App: A Study of User Reviews of Popular Apps in the Google Play". In International Symposium on Software Reliability Engineering (ISSRE). <strong>(CCF Rank B)</strong> Conference Accepted.   [pdf]    <br />
 
-<strong>Qiuyuan Chen</strong>, Chunyang Chen, Safwat Hassan, Zhenchang Xing, Xin Xia, Ahmed E. Hassan. "How should I Improve the UI of My App: A Study of User Reviews of Popular Apps in the Google Play". In  ACM Transactions on Software Engineering and Methodology (TOSEM). <strong>(CCF Rank A)</strong> Journal Accepted.   <a href="TOSEM_Chen_2021_How Should I Improve the UI of My App.pdf" target="_blank">[PDF]</a>     <br />
 
 2020
 
