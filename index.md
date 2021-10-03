@@ -1,8 +1,8 @@
 ## Welcome to Qiuyuan Chen's Homepage
 
-You can use the [editor on GitHub](https://github.com/chenqiuyuan/home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- You can use the [editor on GitHub](https://github.com/chenqiuyuan/home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
 ## Affliation
 I am pursuing my Ph.D. in Zhejiang University. I was an intern in Hengtian software. I was an intern in Tencent.
@@ -14,19 +14,19 @@ I am pursuing my Ph.D. in Zhejiang University. I was an intern in Hengtian softw
 
 ### Research Interest
 
-AI for Software Engineering, Data Minging, Documentation for SE.
+AI for Software Engineering, Data Minging, Documentation Generation for SE.
 
-### A picture of my research
+<!-- ### A picture of my research
 
 Documentation is one of the most important artifacts in software engineering. However, it is often not drawn attentioned.
 
 As a Ph.D. candidate, I am often bothered by "what's your research topic" for the laymen. I decide to draw a picture.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
 
 ### My CV
 
-My current CV. last updated: 2021.5.25.
+My current CV. last updated: 2021.10.3.
 
 ### Template
 
@@ -34,6 +34,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Publication
 2021
+
+Yuxing Hu, Meng Yan, Zhongxin Liu, <strong>Qiuyuan Chen</strong>, Bei Wang. "How should I Improve the UI of My App: A Study of User Reviews of Popular Apps in the Google Play". In International Symposium on Software Reliability Engineering (ISSRE). <strong>(CCF Rank B)</strong> Conference Accepted.   [pdf]    <br />
 
 <strong>Qiuyuan Chen</strong>, Chunyang Chen, Safwat Hassan, Zhenchang Xing, Xin Xia, Ahmed E. Hassan. "How should I Improve the UI of My App: A Study of User Reviews of Popular Apps in the Google Play". In  ACM Transactions on Software Engineering and Methodology (TOSEM). <strong>(CCF Rank A)</strong> Journal Accepted.   <a href="TOSEM_Chen_2021_How Should I Improve the UI of My App.pdf" target="_blank">[PDF]</a>     <br />
 
