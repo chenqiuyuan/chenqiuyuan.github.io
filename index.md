@@ -4,8 +4,13 @@
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
-## Affliation
-I am pursuing my Ph.D. in Zhejiang University. I was an intern in Hengtian software. I was an intern in Tencent.
+## About Me
+
+陈秋远是浙江大学计算机科学与技术学院2017级博生，很荣幸在科研道路上获得李善平教授和夏鑫博士的指导。陈秋远的研究领域包括智能化软件工程与软件数据挖掘等，研究的主要对象是代码文档。在软件工程中，代码文档是帮助开发者理解程序的重要载体。他的研究致力于智能化的程序理解，达到自动化的文档生成，从而帮助提升软件统的开发效率与可维护性。陈秋远在读博期间，多篇学术论文发表于国内外期刊和会议，如软件工程顶期刊 ACM Transactions on Software Engineering and Methodologys)、软件学报等。
+
+I am pursuing my Ph.D. in the School of Computing Science and Technology, Zhejiang University. 
+I am very fortunate to work under the supervision of Prof. Shanping Li and Dr. Xin Xia.
+My research interests include intelligent software engineering and ming software data, etc. The research focus is code documentation, which is essential to help developers understand the program in software engineering. My research is dedicated to intelligent program comprehension and automatic document generation, thereby helping to improve the development efficiency and maintainability of the software system. During my Ph.D. study, many academic papers were published in international journals and conferences, such as the top journal of software engineering ACM Transactions on Software Engineering and Methodologys (TOSEM) and Jounal of Software, etc.
 
 ### Google Scholar
 [Direct link] to Google scholar page.
@@ -28,9 +33,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 My current CV. last updated: 2021.10.3.
 
+<!-- 
 ### Template
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chenqiuyuan/home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chenqiuyuan/home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file. -->
 
 ### Publication
 2021
