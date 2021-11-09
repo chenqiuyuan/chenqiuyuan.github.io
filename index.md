@@ -19,7 +19,10 @@ My research interests include intelligent software engineering and ming software
 [Direct link]: https://scholar.google.com/citations?user=pCvGsBkAAAAJ&hl=en
 
 ### Working Experience
-In Tencent
+2021年1月-2021年11月，在腾讯公司CODE中心工蜂项目组，担任实习生。
+2017年4月-2018年12月，在恒天软件有限公司，担任实习生。
+2016年2月-2016年8月，在华西证券公司，担任实习生。
+
 
 ### Research Interest
 
@@ -35,7 +38,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### My CV
 
-My current CV. last updated: 2021.10.3.
+My current CV <a href="陈秋远 简历 20211109.pdf" target="_blank">[PDF]</a>. last updated: 2021.11.09.
 
 <!-- 
 ### Template
