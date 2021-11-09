@@ -45,20 +45,20 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Publication
 2021
 
-<strong>Qiuyuan Chen</strong>, Chunyang Chen, Safwat Hassan, Zhenchang Xing, Xin Xia, Ahmed E. Hassan. "How should I Improve the UI of My App: A Study of User Reviews of Popular Apps in the Google Play". In  ACM Transactions on Software Engineering and Methodology (TOSEM). <strong>(CCF Rank A)</strong> Journal Accepted.   <a href="TOSEM_Chen_2021_How Should I Improve the UI of My App.pdf" target="_blank">[PDF]</a>     <br />
+<strong>Qiuyuan Chen</strong>, Chunyang Chen, Safwat Hassan, Zhenchang Xing, Xin Xia, Ahmed E. Hassan. "How should I Improve the UI of My App: A Study of User Reviews of Popular Apps in the Google Play". In  ACM Transactions on Software Engineering and Methodology (TOSEM). <strong>(CCF Rank A)</strong> Journal Accepted.   <a href="TOSEM_Qiuyuan_Chen_2021_How Should I Improve the UI of My App.pdf" target="_blank">[PDF]</a>     <br />
 
-Yuxing Hu, Meng Yan, Zhongxin Liu, <strong>Qiuyuan Chen</strong>, Bei Wang. "Improving Code Summarization Through Automated Quality Assurance". In International Symposium on Software Reliability Engineering (ISSRE). <strong>(CCF Rank B)</strong> Conference Accepted.   [pdf]    <br />
+Yuxing Hu, Meng Yan, Zhongxin Liu, <strong>Qiuyuan Chen</strong>, Bei Wang. "Improving Code Summarization Through Automated Quality Assurance". In International Symposium on Software Reliability Engineering (ISSRE). <strong>(CCF Rank B)</strong> Conference Accepted.   <a href="ISSRE_Qiuyuan_Chen_2021_Improving Code Summarization Through Automated Quality Assurance" target="_blank">[PDF]</a>     <br />
 
 
 2020
 
-<strong>Qiuyuan Chen</strong>, Xin Xia, Han Hu, David Lo, Shanping Li. "Why My Code Summarization Model Does Not Work: Code Comment Improvement with Category Prediction". In  ACM Transactions on Software Engineering and Methodology (TOSEM). <strong>(CCF Rank A)</strong> Journal Accepted.     <a href="TOSEM_Qiuyuan_2021_Why My Code Summarization Model Does Not Work.pdf" target="_blank">[PDF]</a>     <br />
+<strong>Qiuyuan Chen</strong>, Xin Xia, Han Hu, David Lo, Shanping Li. "Why My Code Summarization Model Does Not Work: Code Comment Improvement with Category Prediction". In  ACM Transactions on Software Engineering and Methodology (TOSEM). <strong>(CCF Rank A)</strong> Journal Accepted.     <a href="TOSEM_Qiuyuan_Chen_2021_Why My Code Summarization Model Does Not Work.pdf" target="_blank">[PDF]</a>     <br />
 
 2019
 
-<strong>Qiuyuan Chen</strong>, Han Hu, and Zhaoyi Liu. "Code Summarization with Abstract Syntax Tree." In International Conference on Neural Information Processing (ICONIP). <strong>(CCF Rank C)</strong> Accepted as a full paper. <a href="ICONIP_Chen_2019_Code Summarization with Abstract Syntax Tree.pdf" target="_blank">[PDF]</a>     <br />
+<strong>Qiuyuan Chen</strong>, Han Hu, and Zhaoyi Liu. "Code Summarization with Abstract Syntax Tree." In International Conference on Neural Information Processing (ICONIP). <strong>(CCF Rank C)</strong> Accepted as a full paper. <a href="ICONIP_Qiuyuan_Chen_2019_Code Summarization with Abstract Syntax Tree.pdf" target="_blank">[PDF]</a>     <br />
 
-Han Hu, <strong>Qiuyuan Chen</strong>, and Zhaoyi Liu. "Code Generation from Supervised Code Embeddings." In International Conference on Neural Information Processing (ICONIP). <strong>(CCF Rank C)</strong> Accepted as a full paper. <a href="ICONIP_Hu_Code_Generation_from_Supervised_Embeddings.pdf" target="_blank">[PDF]</a>     <br />
+Han Hu, <strong>Qiuyuan Chen</strong>, and Zhaoyi Liu. "Code Generation from Supervised Code Embeddings." In International Conference on Neural Information Processing (ICONIP). <strong>(CCF Rank C)</strong> Accepted as a full paper. <a href="ICONIP_Hu_Code Generation from Supervised Embeddings.pdf" target="_blank">[PDF]</a>     <br />
 
 Zhaoyi Liu, <strong>Qiuyuan Chen</strong>, Han Hu, Haoyu Tang, and Y. X. Zou, “Teacher-Student Learning and Post-processing for Robust BiLSTM Mask-Based Acoustic Beamforming,” In International Conference on Neural Information Processing (ICONIP). <strong>(CCF Rank C)</strong> Accepted as a full paper. <a href="ICONIP_Liu_2019_Teacher-Student Learning and Post-processing.pdf" target="_blank">[PDF]</a>     <br />
 
@@ -68,4 +68,4 @@ Paper in Chinese
 
 2018
 
-<strong>Qiuyuan Chen</strong>, Lingfeng Bao, Li Li, Xin Xia, Liang Cai. "Categorizing and Predicting Invalid Vulnerabilities on Common Vulnerabilities and Exposures". 25th Asia-Pacific Software Engineering Conference (APSEC 2018). <strong>(CCF Rank C)</strong> Accepted as a Full Paper. <a href="APSEC_Chen_2018_Categorizing and Predicting Invalid Vulnerabilitie.pdf" target="_blank">[PDF]</a>   <br />
+<strong>Qiuyuan Chen</strong>, Lingfeng Bao, Li Li, Xin Xia, Liang Cai. "Categorizing and Predicting Invalid Vulnerabilities on Common Vulnerabilities and Exposures". 25th Asia-Pacific Software Engineering Conference (APSEC 2018). <strong>(CCF Rank C)</strong> Accepted as a Full Paper. <a href="APSEC_Qiuyuan_Chen_2018_Categorizing and Predicting Invalid Vulnerabilitie.pdf" target="_blank">[PDF]</a>   <br />
