@@ -18,6 +18,9 @@ My research interests include intelligent software engineering and ming software
 
 [Direct link]: https://scholar.google.com/citations?user=pCvGsBkAAAAJ&hl=en
 
+### Working Experience
+In Tencent
+
 ### Research Interest
 
 AI for Software Engineering, Data Minging, Documentation Generation for SE.
