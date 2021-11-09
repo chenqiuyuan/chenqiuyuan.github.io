@@ -20,7 +20,9 @@ My research interests include intelligent software engineering and ming software
 
 ### Working Experience
 2021年1月-2021年11月，在腾讯公司CODE中心工蜂项目组，担任实习生。
+
 2017年4月-2018年12月，在恒天软件有限公司，担任实习生。
+
 2016年2月-2016年8月，在华西证券公司，担任实习生。
 
 
