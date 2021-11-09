@@ -47,7 +47,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 <strong>Qiuyuan Chen</strong>, Chunyang Chen, Safwat Hassan, Zhenchang Xing, Xin Xia, Ahmed E. Hassan. "How should I Improve the UI of My App: A Study of User Reviews of Popular Apps in the Google Play". In  ACM Transactions on Software Engineering and Methodology (TOSEM). <strong>(CCF Rank A)</strong> Journal Accepted.   <a href="TOSEM_Qiuyuan_Chen_2021_How Should I Improve the UI of My App.pdf" target="_blank">[PDF]</a>     <br />
 
-Yuxing Hu, Meng Yan, Zhongxin Liu, <strong>Qiuyuan Chen</strong>, Bei Wang. "Improving Code Summarization Through Automated Quality Assurance". In International Symposium on Software Reliability Engineering (ISSRE). <strong>(CCF Rank B)</strong> Conference Accepted.   <a href="ISSRE_Qiuyuan_Chen_2021_Improving Code Summarization Through Automated Quality Assurance" target="_blank">[PDF]</a>     <br />
+Yuxing Hu, Meng Yan, Zhongxin Liu, <strong>Qiuyuan Chen</strong>, Bei Wang. "Improving Code Summarization Through Automated Quality Assurance". In International Symposium on Software Reliability Engineering (ISSRE). <strong>(CCF Rank B)</strong> Conference Accepted.   <a href="ISSRE_Qiuyuan_Chen_2021_Improving Code Summarization Through Automated Quality Assurance.pdf" target="_blank">[PDF]</a>     <br />
 
 
 2020
