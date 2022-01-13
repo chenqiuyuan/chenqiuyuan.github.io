@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## About Me
 
-陈秋远是浙江大学计算机科学与技术学院2017级博生，很荣幸在科研道路上获得李善平教授和夏鑫博士的指导。陈秋远的研究领域包括智能化软件工程与软件数据挖掘等，研究的主要对象是代码文档。在软件工程中，代码文档是帮助开发者理解程序的重要载体。他的研究致力于智能化的程序理解，达到自动化的文档生成，从而帮助提升软件统的开发效率与可维护性。陈秋远在攻读博士学位期间完成了多篇学术论文，并发表于国内外期刊和会议，包括软件工程顶级会议ICSE，顶级期刊 ACM Transactions on Software Engineering and Methodologys（TOSEM)、软件学报等。
+陈秋远是浙江大学计算机科学与技术学院2017级博生，很荣幸在科研道路上获得李善平教授和夏鑫博士的指导。陈秋远的研究领域包括智能化软件工程与软件数据挖掘等，研究的主要对象是代码文档。在软件工程中，代码文档是帮助开发者理解程序的重要载体。他的研究致力于智能化的程序理解，达到自动化的文档生成，从而帮助提升软件统的开发效率与可维护性。陈秋远在攻读博士学位期间完成了多篇学术论文，并发表于国内外期刊和会议，包括软件工程顶级会议ICSE（International Conference on Software Engineering），顶级期刊 TOSEM（ACM Transactions on Software Engineering and Methodologys）、软件学报等。
 
 I am pursuing my Ph.D. in the School of Computing Science and Technology, Zhejiang University. 
 I am very fortunate to work under the supervision of Prof. Shanping Li and [Dr. Xin Xia](https://xin-xia.github.io/).
