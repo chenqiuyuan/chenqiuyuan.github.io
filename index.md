@@ -10,6 +10,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 I am pursuing my PhD in the School of Computing Science and Technology, Zhejiang University. I am very fortunate to work under the supervision of Prof. Shanping Li and [Dr. Xin Xia](https://xin-xia.github.io/).My research interests include intelligent software engineering and ming software data, etc. The research focus is code documentation, which is essential to help developers understand the program in software engineering. My research is dedicated to intelligent program comprehension and automatic document generation, thereby helping to improve the development efficiency and maintainability of the software system. During my PhD study, I finished several academic papers, which are published in Chinese and international journals and conferences, including the top conference ICSE (International Conference on Software Engineering), the top journal TOSEM (ACM Transactions on Software Engineering and Methodologys) and JOS (the Journal of Software), etc.
 
+<a href="https://info.flagcounter.com/i4wB"><img src="https://s05.flagcounter.com/map/i4wB/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_Who+is+interesting/flags_0/" alt="Flag Counter" border="0"></a>
+
 ### Google Scholar
 [Direct link] to Google scholar page.
 
