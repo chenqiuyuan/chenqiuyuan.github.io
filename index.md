@@ -97,4 +97,4 @@ Paper in Chinese
 <a href="https://doi.org/10.1109/APSEC.2018.00049" target="_blank">[DOI]</a>
 <br />
 
-<a href="https://info.flagcounter.com/i4wB"><img src="https://s05.flagcounter.com/map/i4wB/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_Who+is+interesting/flags_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/snA5"><img src="https://s04.flagcounter.com/mini/snA5/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
