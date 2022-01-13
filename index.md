@@ -8,9 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 陈秋远是浙江大学计算机科学与技术学院2017级博生，很荣幸在科研道路上获得李善平教授和夏鑫博士的指导。陈秋远的研究领域包括智能化软件工程与软件数据挖掘等，研究的主要对象是代码文档。在软件工程中，代码文档是帮助开发者理解程序的重要载体。他的研究致力于智能化的程序理解，达到自动化的文档生成，从而帮助提升软件统的开发效率与可维护性。陈秋远在攻读博士学位期间完成了多篇学术论文，并发表于国内外期刊和会议，包括软件工程顶级会议ICSE（International Conference on Software Engineering），顶级期刊 TOSEM（ACM Transactions on Software Engineering and Methodologys）、软件学报等。
 
-I am pursuing my Ph.D. in the School of Computing Science and Technology, Zhejiang University. 
-I am very fortunate to work under the supervision of Prof. Shanping Li and [Dr. Xin Xia](https://xin-xia.github.io/).
-My research interests include intelligent software engineering and ming software data, etc. The research focus is code documentation, which is essential to help developers understand the program in software engineering. My research is dedicated to intelligent program comprehension and automatic document generation, thereby helping to improve the development efficiency and maintainability of the software system. During my Ph.D. study, many academic papers were published in Chinese and international journals and conferences, such as the top journal in software engineering: ACM Transactions on Software Engineering and Methodologys (TOSEM) and Jounal of Software, etc.
+I am pursuing my PhD in the School of Computing Science and Technology, Zhejiang University. I am very fortunate to work under the supervision of Prof. Shanping Li and [Dr. Xin Xia](https://xin-xia.github.io/).My research interests include intelligent software engineering and ming software data, etc. The research focus is code documentation, which is essential to help developers understand the program in software engineering. My research is dedicated to intelligent program comprehension and automatic document generation, thereby helping to improve the development efficiency and maintainability of the software system. During my PhD study, I finished several academic papers, which are published in Chinese and international journals and conferences, including the top conference ICSE (International Conference on Software Engineering), the top journal TOSEM (ACM Transactions on Software Engineering and Methodologys) and JOS (the Journal of Software), etc.
 
 ### Google Scholar
 [Direct link] to Google scholar page.
@@ -27,7 +25,7 @@ My research interests include intelligent software engineering and ming software
 
 ### Research Interest
 
-AI for Software Engineering, Data Minging, Documentation Generation for SE.
+AI for Software Engineering, Program Comprehension, Documentation Generation for SE.
 
 <!-- ### A picture of my research
 
