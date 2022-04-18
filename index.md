@@ -45,9 +45,19 @@ My current CV <a href="陈秋远 简历 20211109.pdf" target="_blank">[PDF]</a>.
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chenqiuyuan/home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file. -->
 
 ### Publication
+2022
+
+<strong>Qiuyuan Chen</strong>, Dezhen Kong, Lingfeng Bao, Chenxing Sun, Xin Xia, Shanping Li.
+"Code Reviewer Recommendation in Tencent: Practice, Challenge and Direction".
+In The 44th ACM/IEEE International Conference on Software Engineering (ICSE-SEIP 2022).
+<a href="Code Reviewer Recommendation in Tencent: Practice, Challenge and Direction.pdf" target="_blank">[PDF]</a>
+<br />
+
 2021
 
-<strong>Qiuyuan Chen</strong>, Chunyang Chen, Safwat Hassan, Zhenchang Xing, Xin Xia, Ahmed E. Hassan. "How should I Improve the UI of My App: A Study of User Reviews of Popular Apps in the Google Play". In  ACM Transactions on Software Engineering and Methodology (TOSEM). <strong>(CCF Rank A)</strong> Journal Accepted.
+<strong>Qiuyuan Chen</strong>, Chunyang Chen, Safwat Hassan, Zhenchang Xing, Xin Xia, Ahmed E. Hassan. 
+"How should I Improve the UI of My App: A Study of User Reviews of Popular Apps in the Google Play". 
+In ACM Transactions on Software Engineering and Methodology (TOSEM). <strong>(CCF Rank A)</strong> Journal Accepted.
 <a href="TOSEM_Qiuyuan_Chen_2021_How Should I Improve the UI of My App.pdf" target="_blank">[PDF]</a>
 <a href="https://doi.org/10.1145/3447808" target="_blank">[DOI]</a>
 <br />
