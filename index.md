@@ -51,6 +51,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 "Code Reviewer Recommendation in Tencent: Practice, Challenge and Direction".
 In The 44th ACM/IEEE International Conference on Software Engineering (ICSE-SEIP 2022). <strong>(CCF Rank A)</strong> Conference Accepted.
 <a href="ICSE_SEIP_Qiuyuan_Chen_2022_Code Reviewer Recommendation in Tencent_Practice, Challenge and Direction.pdf" target="_blank">[PDF]</a>
+<a href="ICSE-SEIP_slides.pdf" target="_blank">[SLIDES]</a>
 <br />
 
 Dezhen Kong, <strong>Qiuyuan Chen</strong>, Lingfeng Bao, Chenxing Sun, Xin Xia, Shanping Li.
@@ -75,9 +76,12 @@ Yuxing Hu, Meng Yan, Zhongxin Liu, <strong>Qiuyuan Chen</strong>, Bei Wang. "Imp
 
 2020
 
-<strong>Qiuyuan Chen</strong>, Xin Xia, Han Hu, David Lo, Shanping Li. "Why My Code Summarization Model Does Not Work: Code Comment Improvement with Category Prediction". In  ACM Transactions on Software Engineering and Methodology (TOSEM). <strong>(CCF Rank A)</strong> Journal Accepted.
+<strong>Qiuyuan Chen</strong>, Xin Xia, Han Hu, David Lo, Shanping Li. "Why My Code Summarization Model Does Not Work: Code Comment Improvement with Category Prediction". In ACM Transactions on Software Engineering and Methodology (TOSEM). <strong>(CCF Rank A)</strong> Journal Accepted.
 <a href="TOSEM_Qiuyuan_Chen_2021_Why My Code Summarization Model Does Not Work.pdf" target="_blank">[PDF]</a>
 <a href="https://doi.org/10.1145/3434280" target="_blank">[DOI]</a>
+
+Invited to present at ICSE 2022 as a journal first paper.
+<a href="ICSE_2022_Journal_First.pdf" target="_blank">[SLIDES]</a>
 <br />
 
 2019
