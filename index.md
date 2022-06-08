@@ -78,9 +78,9 @@ In ACM Transactions on Software Engineering and Methodology (TOSEM). <strong>(CC
 
 [journal 2] <strong>Qiuyuan Chen</strong>, Xin Xia, Han Hu, David Lo, Shanping Li. "Why My Code Summarization Model Does Not Work: Code Comment Improvement with Category Prediction". In ACM Transactions on Software Engineering and Methodology (TOSEM). <strong>(CCF Rank A)</strong> Journal Accepted.
 <a href="TOSEM_Qiuyuan_Chen_2021_Why My Code Summarization Model Does Not Work.pdf" target="_blank">[PDF]</a>
-<a href="https://doi.org/10.1145/3434280" target="_blank">[DOI]</a>
-
+<a href="https://doi.org/10.1145/3434280" target="_blank">[DOI]</a>.
 Invited to present at ICSE 2022 as a journal first paper.
+
 <a href="ICSE_2022_Journal_First.pdf" target="_blank">[SLIDES]</a>
 <br />
 
