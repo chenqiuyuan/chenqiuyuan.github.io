@@ -94,7 +94,6 @@ Invited to present at ICSE 2022 as a journal first paper.
 [conference 3] Han Hu, <strong>Qiuyuan Chen</strong>, and Zhaoyi Liu. "Code Generation from Supervised Code Embeddings." In International Conference on Neural Information Processing (ICONIP). <strong>(CCF Rank C)</strong> Accepted as a full paper.
 <a href="ICONIP_Hu_Code Generation from Supervised Embeddings.pdf" target="_blank">[PDF]</a>
 <a href="https://doi.org/10.1007/978-3-030-36808-1_42" target="_blank">[DOI]</a>
-
 <br />
 
 [conference 2] Zhaoyi Liu, <strong>Qiuyuan Chen</strong>, Han Hu, Haoyu Tang, and Y. X. Zou, "Teacher-Student Learning and Post-processing for Robust BiLSTM Mask-Based Acoustic Beamforming". In International Conference on Neural Information Processing (ICONIP). <strong>(CCF Rank C)</strong> Accepted as a full paper.
