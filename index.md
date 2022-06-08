@@ -49,8 +49,14 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 <strong>Qiuyuan Chen</strong>, Dezhen Kong, Lingfeng Bao, Chenxing Sun, Xin Xia, Shanping Li.
 "Code Reviewer Recommendation in Tencent: Practice, Challenge and Direction".
-In The 44th ACM/IEEE International Conference on Software Engineering (ICSE-SEIP 2022).
+In The 44th ACM/IEEE International Conference on Software Engineering (ICSE-SEIP 2022). <strong>(CCF Rank A)</strong> Conference Accepted.
 <a href="ICSE_SEIP_Qiuyuan_Chen_2022_Code Reviewer Recommendation in Tencent_Practice, Challenge and Direction.pdf" target="_blank">[PDF]</a>
+<br />
+
+Dezhen Kong, <strong>Qiuyuan Chen</strong>, Lingfeng Bao, Chenxing Sun, Xin Xia, Shanping Li.
+"Recommending Code Reviewers for Proprietary Software Projects: A Large Scale Study".
+In the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022). <strong>(CCF Rank B)</strong> Conference Accepted.
+<a href="SANER_Qiuyuan_Chen_2022_Recommending Code Reviewers for Proprietary Software Projects A Large Scale Study.pdf" target="_blank">[PDF]</a>
 <br />
 
 2021
