@@ -47,37 +47,55 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Publication
 2022
 
-[conference 7] <strong>Qiuyuan Chen</strong>, Dezhen Kong, Lingfeng Bao, Chenxing Sun, Xin Xia, Shanping Li.
+
+
+[conference 8] <strong>Qiuyuan Chen</strong>, Dezhen Kong, Lingfeng Bao, Chenxing Sun, Xin Xia, Shanping Li.
 "Code Reviewer Recommendation in Tencent: Practice, Challenge and Direction".
-In The 44th ACM/IEEE International Conference on Software Engineering (ICSE-SEIP 2022). <strong>(CCF Rank A)</strong> Conference Accepted.
+In The 44th ACM/IEEE International Conference on Software Engineering (ICSE-SEIP 2022).
+<strong>(CCF Rank A)</strong> Conference Accepted.
 <a href="ICSE_SEIP_Qiuyuan_Chen_2022_Code Reviewer Recommendation in Tencent_Practice, Challenge and Direction.pdf" target="_blank">[PDF]</a>
+<a href="pdf/Chen_2022_Code_Reviewer_Recommendation_in_Tencent (ICSE-SEIP).pdf" target="_blank">[PDF]</a>
 <a href="ICSE-SEIP_slides.pdf" target="_blank">[SLIDES]</a>
 <br />
 
-[conference 6] Dezhen Kong, <strong>Qiuyuan Chen</strong>, Lingfeng Bao, Chenxing Sun, Xin Xia, Shanping Li.
-"Recommending Code Reviewers for Proprietary Software Projects: A Large Scale Study".
-In the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022). <strong>(CCF Rank B)</strong> Conference Accepted.
+[conference 7] Dezhen Kong, <strong>Qiuyuan Chen</strong>, Chenxing Sun, Xin Xia, Shanping Li. 2022. ‘Recommending Code Reviewers for Proprietary Software Projects: A Large Scale Study’[C]. in 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER).
+<strong>(CCF Rank B)</strong> Conference Accepted.
 <a href="SANER_Qiuyuan_Chen_2022_Recommending Code Reviewers for Proprietary Software Projects A Large Scale Study.pdf" target="_blank">[PDF]</a>
+<a href="pdf/Kong_2022_Recommending_Code_Reviewers_for_Proprietary_Software_Projects (SANER).pdf" target="_blank">[PDF]</a>
+<br />
+
+[conference 6] Xing Hu, Xin Xia, David Lo, Zhiyuan Wan, <strong>Qiuyuan Chen</strong>, Thomas Zimmermann. 2022. "Practitioners’ Expectations on Automated Code Comment Generation"[C]. in 44th ACM/IEEE International Conference on Software Engineering (ICSE).
+<strong>(CCF Rank A)</strong> Conference Accepted.
+<a href="pdf/Hu_2022_Practitioners’_Expectations_on_Automated_Code_Comment_Generation (ICSE).pdf" target="_blank">[PDF]</a>
+<br />
+
+[journal 4] Xing Hu, <strong>Qiuyuan Chen</strong>, Haoye Wang, Xin Xia, David Lo, Thomas Zimmermann. 2022. ‘Correlating Automated and Human Evaluation of Code Documentation Generation Quality’[J]. ACM Transactions on Software Engineering and Methodology (TOSEM). ACM.
+<strong>(CCF Rank A)</strong> Journal Accepted.
+<a href="pdf/Hu_2022_Correlating_Automated_and_Human_Evaluation_of_Code_Documentation_Generation (TOSEM).pdf" target="_blank">[PDF]</a>
 <br />
 
 2021
 
-[journal 3] <strong>Qiuyuan Chen</strong>, Chunyang Chen, Safwat Hassan, Zhenchang Xing, Xin Xia, Ahmed E. Hassan. 
-"How should I Improve the UI of My App: A Study of User Reviews of Popular Apps in the Google Play". 
-In ACM Transactions on Software Engineering and Methodology (TOSEM). <strong>(CCF Rank A)</strong> Journal Accepted.
+[journal 3] <strong>Qiuyuan Chen</strong>, Chunyang Chen, Safwat Hassan, Zhengchang Xing, Xin Xia, Ahmed E. Hassan. 2021. ‘How Should I Improve the UI of My App?: A Study of User Reviews of Popular Apps in the Google Play’[J]. ACM Transactions on Software Engineering and Methodology (TOSEM). vol. 30, no. 3. pp. 1–38.
+<strong>(CCF Rank A)</strong> Journal Accepted.
 <a href="TOSEM_Qiuyuan_Chen_2021_How Should I Improve the UI of My App.pdf" target="_blank">[PDF]</a>
+<a href="pdf/Chen_2021_How_Should_I_Improve_the_UI_of_My_App (TOSEM).pdf" target="_blank">[PDF]</a>
 <a href="https://doi.org/10.1145/3447808" target="_blank">[DOI]</a>
 <br />
 
-[conference 5] Yuxing Hu, Meng Yan, Zhongxin Liu, <strong>Qiuyuan Chen</strong>, Bei Wang. "Improving Code Summarization Through Automated Quality Assurance". In International Symposium on Software Reliability Engineering (ISSRE). <strong>(CCF Rank B)</strong> Conference Accepted.
+[conference 5] Yuxing Hu, Meng Yan, Zhongxin Liu, <strong>Qiuyuan Chen</strong>, Bei Wang. 2021. ‘Improving Code Summarization Through Automated Quality Assurance’[C]. in 32nd IEEE International Symposium on Software Reliability Engineering (ISSRE), pp. 486–497, IEEE.
+<strong>(CCF Rank B)</strong> Conference Accepted.
 <a href="ISSRE_Qiuyuan_Chen_2021_Improving Code Summarization Through Automated Quality Assurance.pdf" target="_blank">[PDF]</a>
-<a href="" target="_blank">[DOI]</a>
+<a href="pdf/Hu_2021_Improving_Code_Summarization_Through_Automated_Quality_Assurance (ISSRE).pdf" target="_blank">[PDF]</a>
+<a href="" target="_blank">[-DOI-]</a>
 <br />
 
 2020
 
-[journal 2] <strong>Qiuyuan Chen</strong>, Xin Xia, Han Hu, David Lo, Shanping Li. "Why My Code Summarization Model Does Not Work: Code Comment Improvement with Category Prediction". In ACM Transactions on Software Engineering and Methodology (TOSEM). <strong>(CCF Rank A)</strong> Journal Accepted.
+[journal 2] <strong>Qiuyuan Chen</strong>, Xin Xia, Han Hu, David Lo, Shanping Li. 2021. ‘Why My Code Summarization Model Does Not Work: Code Comment Improvement with Category Prediction’[J]. ACM Transactions on Software Engineering and Methodology (TOSEM). vol. 30, no. 2. pp. 1–29. ACM.
+<strong>(CCF Rank A)</strong> Journal Accepted.
 <a href="TOSEM_Qiuyuan_Chen_2021_Why My Code Summarization Model Does Not Work.pdf" target="_blank">[PDF]</a>
+<a href="pdf/Chen_2021_Why_My_Code_Summarization_Model_Does_Not_Work (TOSEM).pdf" target="_blank">[PDF]</a>
 <a href="https://doi.org/10.1145/3434280" target="_blank">[DOI]</a>.
 Invited to present at <strong>ICSE 2022</strong> as a journal first paper.
 <a href="ICSE_2022_Journal_First.pdf" target="_blank">[SLIDES]</a>
@@ -85,32 +103,42 @@ Invited to present at <strong>ICSE 2022</strong> as a journal first paper.
 
 2019
 
-[conference 4] <strong>Qiuyuan Chen</strong>, Han Hu, and Zhaoyi Liu. "Code Summarization with Abstract Syntax Tree." In International Conference on Neural Information Processing (ICONIP). <strong>(CCF Rank C)</strong> Accepted as a full paper.
+[conference 4] <strong>Qiuyuan Chen</strong>, Han Hu, Zhaoyi Liu. 2019. ‘Code Summarization with Abstract Syntax Tree’[C]. in 26th International Conference on Neural Information Processing (ICONIP), vol. 1143, pp. 652–660, Springer.
+<strong>(CCF Rank C)</strong> Accepted as a full paper.
 <a href="ICONIP_Qiuyuan_Chen_2019_Code Summarization with Abstract Syntax Tree.pdf" target="_blank">[PDF]</a>
+<a href="pdf/Chen_2019_Code_Summarization_with_Abstract_Syntax_Tree (ICONIP).pdf" target="_blank">[PDF]</a>
 <a href="https://doi.org/10.1007/978-3-030-36802-9_69" target="_blank">[DOI]</a>
 <br />
 
-[conference 3] Han Hu, <strong>Qiuyuan Chen</strong>, and Zhaoyi Liu. "Code Generation from Supervised Code Embeddings." In International Conference on Neural Information Processing (ICONIP). <strong>(CCF Rank C)</strong> Accepted as a full paper.
+[conference 3] Han Hu, <strong>Qiuyuan Chen</strong>, Zhaoyi Liu. 2019. ‘Code Generation from Supervised Code Embeddings’[C]. in 26th International Conference on Neural Information Processing (ICONIP), vol. 1142, pp. 388–396, Springer. 
+<strong>(CCF Rank C)</strong> Accepted as a full paper.
 <a href="ICONIP_Hu_Code Generation from Supervised Embeddings.pdf" target="_blank">[PDF]</a>
+<a href="pdf/Hu_2019_Code_Generation_from_Supervised_Code_Embeddings (ICONIP).pdf" target="_blank">[PDF]</a>
 <a href="https://doi.org/10.1007/978-3-030-36808-1_42" target="_blank">[DOI]</a>
 <br />
 
-[conference 2] Zhaoyi Liu, <strong>Qiuyuan Chen</strong>, Han Hu, Haoyu Tang, and Y. X. Zou, "Teacher-Student Learning and Post-processing for Robust BiLSTM Mask-Based Acoustic Beamforming". In International Conference on Neural Information Processing (ICONIP). <strong>(CCF Rank C)</strong> Accepted as a full paper.
+[conference 2] Zhaoyi Liu, <strong>Qiuyuan Chen</strong>, Han Hu, Haoyu Tang, Y. X. Zou. 2019. ‘Teacher-Student Learning and Post-processing for Robust BiLSTM Mask-Based Acoustic Beamforming’[C]. in 26th International Conference on Neural Information Processing (ICONIP), vol. 11955, pp. 522–533, Springer.
+<strong>(CCF Rank C)</strong> Accepted as a full paper.
 <a href="ICONIP_Liu_2019_Teacher-Student Learning and Post-processing.pdf" target="_blank">[PDF]</a>
+<a href="pdf/Liu_2019_Teacher-Student_Learning_and_Post-processing_for_Robust_BiLSTM_Mask-Based (ICONIP).pdf" target="_blank">[PDF]</a>
 <a href="https://doi.org/10.1007/978-3-030-36718-3_44" target="_blank">[DOI]</a>
 <br />
 
 Paper in Chinese
 
-[journal 1] <strong>陈秋远</strong>, 李善平, 鄢萌, 夏鑫. "代码克隆检测研究进展". 软件学报, 2019, <strong>（CCF 中文A类） (CCF Rank A in Chinese)。</strong> 期刊已录用
+[journal 1] <strong>陈秋远</strong>, 李善平, 鄢萌, 夏鑫. 2019. ‘代码克隆检测研究进展’[J]. 软件学报. vol. 30, no. 04. pp. 962–980.
+<strong>（CCF 中文A类） (CCF Rank A in Chinese)。</strong> 期刊已录用
 <a href="软件学报_陈秋远_2019_代码克隆检测研究进展.pdf" target="_blank">[PDF]</a>
+<a href="pdf/陈_2019_代码克隆检测研究进展 (软件学报).pdf" target="_blank">[PDF]</a>
 <a href="https://doi.org/10.13328/j.cnki.jos.005711" target="_blank">[DOI]</a>
 <br />
 
 2018
 
-[conference 1]<strong>Qiuyuan Chen</strong>, Lingfeng Bao, Li Li, Xin Xia, Liang Cai. "Categorizing and Predicting Invalid Vulnerabilities on Common Vulnerabilities and Exposures". 25th Asia-Pacific Software Engineering Conference (APSEC 2018). <strong>(CCF Rank C)</strong> Accepted as a Full Paper.
+[conference 1] <strong>Qiuyuan Chen</strong>, Lingfeng Bao, Li Li, Xin Xia, Liang Cai. Dec. 2018. ‘Categorizing and Predicting Invalid Vulnerabilities on Common Vulnerabilities and Exposures’[C]. in 25th Asia-Pacific Software Engineering Conference (APSEC), pp. 345–354.
+<strong>(CCF Rank C)</strong> Accepted as a Full Paper.
 <a href="APSEC_Qiuyuan_Chen_2018_Categorizing and Predicting Invalid Vulnerabilitie.pdf" target="_blank">[PDF]</a>
+<a href="pdf/Chen_2018_Categorizing_and_Predicting_Invalid_Vulnerabilities_on_Common_Vulnerabilities (APSEC).pdf" target="_blank">[PDF]</a>
 <a href="https://doi.org/10.1109/APSEC.2018.00049" target="_blank">[DOI]</a>
 <br />
 
