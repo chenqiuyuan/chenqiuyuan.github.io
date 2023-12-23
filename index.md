@@ -65,6 +65,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 In The 44th ACM/IEEE International Conference on Software Engineering (ICSE-SEIP 2022).
 `<strong>`(CCF Rank A)`</strong>` Conference Accepted.
 `<a href="pdf/Chen_2022_Code_Reviewer_Recommendation_in_Tencent (ICSE-SEIP).pdf" target="_blank">`[PDF]`</a>`
+[pdf](href="pdf/Chen_2022_Code_Reviewer_Recommendation_in_Tencent (ICSE-SEIP).pdf)
 `<a href="slides/ICSE-SEIP_slides.pdf" target="_blank">`[SLIDES]`</a>`
 `<a href="" target="_blank">`[-DOI-]`</a>`
 `<br />`
