@@ -64,11 +64,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 "Code Reviewer Recommendation in Tencent: Practice, Challenge and Direction".
 In The 44th ACM/IEEE International Conference on Software Engineering (ICSE-SEIP 2022).
 `<strong>`(CCF Rank A)`</strong>` Conference Accepted.
-`<a href="pdf/Chen_2022_Code_Reviewer_Recommendation_in_Tencent (ICSE-SEIP).pdf" target="_blank">`[PDF]`</a>`
-[pdf](href="pdf/Chen_2022_Code_Reviewer_Recommendation_in_Tencent (ICSE-SEIP).pdf)
-`<a href="slides/ICSE-SEIP_slides.pdf" target="_blank">`[SLIDES]`</a>`
-`<a href="" target="_blank">`[-DOI-]`</a>`
-`<br />`
+[[PDF]](pdf/Chen_2022_Code_Reviewer_Recommendation_in_Tencent(ICSE-SEIP).pdf)
+[[SLIDES]](slides/ICSE-SEIP_slides.pdf)
+[[DOI]]()
 
 [conference 7] Dezhen Kong, `<strong>`Qiuyuan Chen`</strong>`, Chenxing Sun, Xin Xia, Shanping Li. 2022. ‘Recommending Code Reviewers for Proprietary Software Projects: A Large Scale Study’[C]. in 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER).
 `<strong>`(CCF Rank B)`</strong>` Conference Accepted.
