@@ -135,8 +135,6 @@ Paper in Chinese
 [[PDF]](pdf/Chen_2018_Categorizing_and_Predicting_Invalid_Vulnerabilities_on_Common_Vulnerabilities(APSEC).pdf)
 [[DOI]](https://doi.org/10.1109/APSEC.2018.00049)
 
-[flag counter](https://info.flagcounter.com/snA5)
-
 
 <a href="https://info.flagcounter.com/snA5"><img src="https://s04.flagcounter.com/mini/snA5/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
 
