@@ -60,10 +60,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 2022
 
-[conference 8] `<strong>`Qiuyuan Chen`</strong>`, Dezhen Kong, Lingfeng Bao, Chenxing Sun, Xin Xia, Shanping Li.
+[conference 8] **Qiuyuan Chen**, Dezhen Kong, Lingfeng Bao, Chenxing Sun, Xin Xia, Shanping Li.
 "Code Reviewer Recommendation in Tencent: Practice, Challenge and Direction".
 In The 44th ACM/IEEE International Conference on Software Engineering (ICSE-SEIP 2022).
-`<strong>`(CCF Rank A)`</strong>` Conference Accepted.
+**(CCF Rank A)** Conference Accepted.
 [[PDF]](pdf/Chen_2022_Code_Reviewer_Recommendation_in_Tencent(ICSE-SEIP).pdf)
 [[SLIDES]](slides/ICSE-SEIP_slides.pdf)
 [[DOI]]()
