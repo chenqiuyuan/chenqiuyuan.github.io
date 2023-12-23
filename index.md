@@ -68,23 +68,20 @@ In The 44th ACM/IEEE International Conference on Software Engineering (ICSE-SEIP
 [[SLIDES]](slides/ICSE-SEIP_slides.pdf)
 [[DOI]]()
 
-[conference 7] Dezhen Kong, `<strong>`Qiuyuan Chen`</strong>`, Chenxing Sun, Xin Xia, Shanping Li. 2022. ‘Recommending Code Reviewers for Proprietary Software Projects: A Large Scale Study’[C]. in 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER).
-`<strong>`(CCF Rank B)`</strong>` Conference Accepted.
-`<a href="pdf/Kong_2022_Recommending_Code_Reviewers_for_Proprietary_Software_Projects (SANER).pdf" target="_blank">`[PDF]`</a>`
-`<a href="" target="_blank">`[-DOI-]`</a>`
-`<br />`
+[conference 7] Dezhen Kong, **Qiuyuan Chen**, Chenxing Sun, Xin Xia, Shanping Li. 2022. ‘Recommending Code Reviewers for Proprietary Software Projects: A Large Scale Study’[C]. in 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER).
+**(CCF Rank B)** Conference Accepted.
+[[PDF]](pdf/Kong_2022_Recommending_Code_Reviewers_for_Proprietary_Software_Projects (SANER).pdf)
+[[-DOI-]]()
 
-[conference 6] Xing Hu, Xin Xia, David Lo, Zhiyuan Wan, `<strong>`Qiuyuan Chen`</strong>`, Thomas Zimmermann. 2022. "Practitioners’ Expectations on Automated Code Comment Generation"[C]. in 44th ACM/IEEE International Conference on Software Engineering (ICSE).
-`<strong>`(CCF Rank A)`</strong>` Conference Accepted.
-`<a href="pdf/Hu_2022_Practitioners’_Expectations_on_Automated_Code_Comment_Generation (ICSE).pdf" target="_blank">`[PDF]`</a>`
-`<a href="" target="_blank">`[-DOI-]`</a>`
-`<br />`
+[conference 6] Xing Hu, Xin Xia, David Lo, Zhiyuan Wan, **Qiuyuan Chen**, Thomas Zimmermann. 2022. "Practitioners’ Expectations on Automated Code Comment Generation"[C]. in 44th ACM/IEEE International Conference on Software Engineering (ICSE).
+**(CCF Rank A)** Conference Accepted.
+[[PDF]](pdf/Hu_2022_Practitioners’_Expectations_on_Automated_Code_Comment_Generation (ICSE).pdf)
+[[-DOI-]]()
 
-[journal 4] Xing Hu, `<strong>`Qiuyuan Chen`</strong>`, Haoye Wang, Xin Xia, David Lo, Thomas Zimmermann. 2022. ‘Correlating Automated and Human Evaluation of Code Documentation Generation Quality’[J]. ACM Transactions on Software Engineering and Methodology (TOSEM). ACM.
-`<strong>`(CCF Rank A)`</strong>` Journal Accepted.
-`<a href="pdf/Hu_2022_Correlating_Automated_and_Human_Evaluation_of_Code_Documentation_Generation (TOSEM).pdf" target="_blank">`[PDF]`</a>`
-`<a href="" target="_blank">`[-DOI-]`</a>`
-`<br />`
+[journal 4] Xing Hu, **Qiuyuan Chen**, Haoye Wang, Xin Xia, David Lo, Thomas Zimmermann. 2022. ‘Correlating Automated and Human Evaluation of Code Documentation Generation Quality’[J]. ACM Transactions on Software Engineering and Methodology (TOSEM). ACM.
+**(CCF Rank A)** Journal Accepted.
+[[PDF]](pdf/Hu_2022_Correlating_Automated_and_Human_Evaluation_of_Code_Documentation_Generation(TOSEM).pdf)
+[[-DOI-]]()
 
 2021
 
