@@ -70,12 +70,12 @@ In The 44th ACM/IEEE International Conference on Software Engineering (ICSE-SEIP
 
 [conference 7] Dezhen Kong, **Qiuyuan Chen**, Chenxing Sun, Xin Xia, Shanping Li. 2022. ‘Recommending Code Reviewers for Proprietary Software Projects: A Large Scale Study’[C]. in 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER).
 **(CCF Rank B)** Conference Accepted.
-[[PDF]](pdf/Kong_2022_Recommending_Code_Reviewers_for_Proprietary_Software_Projects (SANER).pdf)
+[[PDF]](pdf/Kong_2022_Recommending_Code_Reviewers_for_Proprietary_Software_Projects(SANER).pdf)
 [[-DOI-]]()
 
 [conference 6] Xing Hu, Xin Xia, David Lo, Zhiyuan Wan, **Qiuyuan Chen**, Thomas Zimmermann. 2022. "Practitioners’ Expectations on Automated Code Comment Generation"[C]. in 44th ACM/IEEE International Conference on Software Engineering (ICSE).
 **(CCF Rank A)** Conference Accepted.
-[[PDF]](pdf/Hu_2022_Practitioners’_Expectations_on_Automated_Code_Comment_Generation (ICSE).pdf)
+[[PDF]](pdf/Hu_2022_Practitioners’_Expectations_on_Automated_Code_Comment_Generation(ICSE).pdf)
 [[-DOI-]]()
 
 [journal 4] Xing Hu, **Qiuyuan Chen**, Haoye Wang, Xin Xia, David Lo, Thomas Zimmermann. 2022. ‘Correlating Automated and Human Evaluation of Code Documentation Generation Quality’[J]. ACM Transactions on Software Engineering and Methodology (TOSEM). ACM.
@@ -87,19 +87,19 @@ In The 44th ACM/IEEE International Conference on Software Engineering (ICSE-SEIP
 
 [journal 3] **Qiuyuan Chen**, Chunyang Chen, Safwat Hassan, Zhengchang Xing, Xin Xia, Ahmed E. Hassan. 2021. ‘How Should I Improve the UI of My App?: A Study of User Reviews of Popular Apps in the Google Play’[J]. ACM Transactions on Software Engineering and Methodology (TOSEM). vol. 30, no. 3. pp. 1–38.
 **(CCF Rank A)** Journal Accepted.
-[[PDF]](pdf/Chen_2021_How_Should_I_Improve_the_UI_of_My_App (TOSEM).pdf)
+[[PDF]](pdf/Chen_2021_How_Should_I_Improve_the_UI_of_My_App(TOSEM).pdf)
 [[DOI]](https://doi.org/10.1145/3447808)
 
 [conference 5] Yuxing Hu, Meng Yan, Zhongxin Liu, **Qiuyuan Chen**, Bei Wang. 2021. ‘Improving Code Summarization Through Automated Quality Assurance’[C]. in 32nd IEEE International Symposium on Software Reliability Engineering (ISSRE), pp. 486–497, IEEE.
 **(CCF Rank B)** Conference Accepted.
-[[PDF]](pdf/Hu_2021_Improving_Code_Summarization_Through_Automated_Quality_Assurance (ISSRE).pdf)
+[[PDF]](pdf/Hu_2021_Improving_Code_Summarization_Through_Automated_Quality_Assurance(ISSRE).pdf)
 [[-DOI-]]()
 
 2020
 
 [journal 2] **Qiuyuan Chen**, Xin Xia, Han Hu, David Lo, Shanping Li. 2021. ‘Why My Code Summarization Model Does Not Work: Code Comment Improvement with Category Prediction’[J]. ACM Transactions on Software Engineering and Methodology (TOSEM). vol. 30, no. 2. pp. 1–29. ACM.
 **(CCF Rank A)** Journal Accepted.
-[[PDF]](pdf/Chen_2021_Why_My_Code_Summarization_Model_Does_Not_Work (TOSEM).pdf)
+[[PDF]](pdf/Chen_2021_Why_My_Code_Summarization_Model_Does_Not_Work(TOSEM).pdf)
 [[DOI]](https://doi.org/10.1145/3434280).
 Invited to present at **ICSE 2022** as a journal first paper.
 [[SLIDES]](slides/ICSE_2022_Journal_First_slides.pdf)
@@ -108,34 +108,33 @@ Invited to present at **ICSE 2022** as a journal first paper.
 
 [conference 4] **Qiuyuan Chen**, Han Hu, Zhaoyi Liu. 2019. ‘Code Summarization with Abstract Syntax Tree’[C]. in 26th International Conference on Neural Information Processing (ICONIP), vol. 1143, pp. 652–660, Springer.
 **(CCF Rank C)** Accepted as a full paper.
-[[PDF]](pdf/Chen_2019_Code_Summarization_with_Abstract_Syntax_Tree (ICONIP).pdf)
+[[PDF]](pdf/Chen_2019_Code_Summarization_with_Abstract_Syntax_Tree(ICONIP).pdf)
 [[DOI]](https://doi.org/10.1007/978-3-030-36802-9_69)
 
 [conference 3] Han Hu, **Qiuyuan Chen**, Zhaoyi Liu. 2019. ‘Code Generation from Supervised Code Embeddings’[C]. in 26th International Conference on Neural Information Processing (ICONIP), vol. 1142, pp. 388–396, Springer.
 **(CCF Rank C)** Accepted as a full paper.
-[[PDF]](pdf/Hu_2019_Code_Generation_from_Supervised_Code_Embeddings (ICONIP).pdf)
+[[PDF]](pdf/Hu_2019_Code_Generation_from_Supervised_Code_Embeddings(ICONIP).pdf)
 [[DOI]](https://doi.org/10.1007/978-3-030-36808-1_42)
 
 [conference 2] Zhaoyi Liu, **Qiuyuan Chen**, Han Hu, Haoyu Tang, Y. X. Zou. 2019. ‘Teacher-Student Learning and Post-processing for Robust BiLSTM Mask-Based Acoustic Beamforming’[C]. in 26th International Conference on Neural Information Processing (ICONIP), vol. 11955, pp. 522–533, Springer.
 **(CCF Rank C)** Accepted as a full paper.
-[[PDF]](pdf/Liu_2019_Teacher-Student_Learning_and_Post-processing_for_Robust_BiLSTM_Mask-Based (ICONIP).pdf)
+[[PDF]](pdf/Liu_2019_Teacher-Student_Learning_and_Post-processing_for_Robust_BiLSTM_Mask-Based(ICONIP).pdf)
 [[DOI]](https://doi.org/10.1007/978-3-030-36718-3_44)
 
 Paper in Chinese
 
 [journal 1] **陈秋远**, 李善平, 鄢萌, 夏鑫. 2019. ‘代码克隆检测研究进展’[J]. 软件学报. vol. 30, no. 04. pp. 962–980.
 **(CCF 中文A类)** (CCF Rank A in Chinese)。 Journal Accepted.
-[[PDF]](pdf/陈_2019_代码克隆检测研究进展 (软件学报).pdf)
+[[PDF]](pdf/陈_2019_代码克隆检测研究进展(软件学报).pdf)
 [[DOI]](https://doi.org/10.13328/j.cnki.jos.005711)
 
 2018
 
 [conference 1] **Qiuyuan Chen**, Lingfeng Bao, Li Li, Xin Xia, Liang Cai. Dec. 2018. ‘Categorizing and Predicting Invalid Vulnerabilities on Common Vulnerabilities and Exposures’[C]. in 25th Asia-Pacific Software Engineering Conference (APSEC), pp. 345–354.
 **(CCF Rank C)** Accepted as a Full Paper.
-[[PDF]](pdf/Chen_2018_Categorizing_and_Predicting_Invalid_Vulnerabilities_on_Common_Vulnerabilities (APSEC).pdf)
+[[PDF]](pdf/Chen_2018_Categorizing_and_Predicting_Invalid_Vulnerabilities_on_Common_Vulnerabilities(APSEC).pdf)
 [[DOI]](https://doi.org/10.1109/APSEC.2018.00049)
 
-
+[flag counter](https://info.flagcounter.com/snA5)
 `<a href="https://info.flagcounter.com/snA5"><img src="https://s04.flagcounter.com/mini/snA5/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0">``</a>`
 
-[Direct link]: https://scholar.google.com/citations?user=pCvGsBkAAAAJ&hl=en
