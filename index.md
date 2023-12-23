@@ -45,7 +45,7 @@ Documentation is one of the most important artifacts in software engineering. Ho
 
 As a Ph.D. candidate, I am often bothered by "what's your research topic" for the laymen. I decide to draw a picture.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### My CV
 
