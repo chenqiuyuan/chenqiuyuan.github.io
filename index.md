@@ -1,4 +1,6 @@
-## Welcome to Qiuyuan Chen's Homepage
+# 陈秋远 博士  
+**腾讯高级研究员 | 软件工程智能化方向**  
+[Google Scholar](https://scholar.google.com/citations?user=pCvGsBkAAAAJ) | [邮件](joeqychen@tencent.com)
 
 <!-- You can use the [editor on GitHub](https://github.com/chenqiuyuan/home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
