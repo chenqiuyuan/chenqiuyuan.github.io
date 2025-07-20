@@ -41,7 +41,7 @@ I (Qiuyuan Chen) am currently employed as a researcher at Tencent, with a backgr
 
 AI for Software Engineering, Program Comprehension, Documentation Generation for SE.
 
-My [[CV]](./陈秋远_简历_20250720.pdf). last updated: 2025.07.20
+My [[CV]](./陈秋远_简历_latest.pdf). last updated: 2025.07.20
 
 
 <!--
