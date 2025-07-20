@@ -41,17 +41,10 @@ I (Qiuyuan Chen) am currently employed as a researcher at Tencent, with a backgr
 
 AI for Software Engineering, Program Comprehension, Documentation Generation for SE.
 
-<!-- ### A picture of my research
-
-Documentation is one of the most important artifacts in software engineering. However, it is often not drawn attentioned.
-
-As a Ph.D. candidate, I am often bothered by "what's your research topic" for the laymen. I decide to draw a picture.
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### My CV
 
-My current CV `<a href="陈秋远 简历 20250700.pdf" target="_blank">`[PDF]`</a>`. last updated: 2021.11.09.
+My current CV `<a href="陈秋远 简历 20250700.pdf" target="_blank">`[PDF]`</a>`. last updated: 2025.07.20
+
 
 <!--
 ### Template
