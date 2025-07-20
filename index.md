@@ -1,5 +1,5 @@
 # 陈秋远 博士  
-**腾讯高级研究员 | 软件工程智能化方向**  
+**腾讯高级研究员 | 智能化软件工程方向**  
 [Google Scholar](https://scholar.google.com/citations?user=pCvGsBkAAAAJ) | [邮件](joeqychen@tencent.com)
 
 <!-- You can use the [editor on GitHub](https://github.com/chenqiuyuan/home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 我（陈秋远）就职于腾讯公司并担任研究员。我是浙江大学计算机科学与技术学院2017级博士，于2022年获得博士学位。很荣幸我在科研道路上获得了李善平教授和夏鑫博士的指导。我的研究领域包括智能化软件工程与软件数据挖掘等，研究的主要对象是代码文档。在软件工程中，代码文档是帮助开发者理解程序的重要载体。他的研究致力于智能化的程序理解，达到自动化的文档生成，从而帮助提升软件统的开发效率与可维护性。陈秋远在攻读博士学位期间完成了多篇学术论文，并发表于国内外期刊和会议，包括软件工程顶级会议ICSE（International Conference on Software Engineering），顶级期刊 TOSEM（ACM Transactions on Software Engineering and Methodologys）、软件学报等。
 
-I (Qiuyuan Chen) am currently employed as a researcher at Tencent, with a background in Computer Science and Technology from the School of Computer Science and Technology at Zhejiang University, where I enrolled in the doctoral program in 2017 and obtained my Ph.D. degree in 2022. I am very fortunate to work under the supervision of Prof. Shanping Li and [Dr. Xin Xia](https://xin-xia.github.io/).My research interests include intelligent software engineering and ming software data, etc. The research focus is code documentation, which is essential to help developers understand the program in software engineering. My research is dedicated to intelligent program comprehension and automatic document generation, thereby helping to improve the development efficiency and maintainability of the software system. During my PhD study, I finished several academic papers, which are published in Chinese and international journals and conferences, including the top conference ICSE (International Conference on Software Engineering), the top journal TOSEM (ACM Transactions on Software Engineering and Methodologys) and JOS (the Journal of Software), etc.
+I (Qiuyuan Chen) am currently employed as a researcher at Tencent, with a background in Computer Science and Technology from the School of Computer Science and Technology at Zhejiang University, where I enrolled in the doctoral program in 2017 and obtained my Ph.D. degree in 2022. I am very fortunate to work under the supervision of Prof. Shanping Li and Dr. Xin Xia. My research interests include intelligent software engineering and ming software data, etc. The research focus is code documentation, which is essential to help developers understand the program in software engineering. My research is dedicated to intelligent program comprehension and automatic document generation, thereby helping to improve the development efficiency and maintainability of the software system. During my PhD study, I finished several academic papers, which are published in Chinese and international journals and conferences, including the top conference ICSE (International Conference on Software Engineering), the top journal TOSEM (ACM Transactions on Software Engineering and Methodologys) and JOS (the Journal of Software), etc.
 
 ### Google Scholar
 
@@ -21,7 +21,7 @@ I (Qiuyuan Chen) am currently employed as a researcher at Tencent, with a backgr
 
 ### Working Experience
 
-2023年1月-至今，在腾讯公司TEG事业群Code中心，担任研究员。
+2023年1月-至今，在腾讯公司TEG事业群Code智能化中心，担任高级研究员。
 
 2021年1月-2021年11月，在腾讯公司TEG事业群Code中心，担任实习生。
 
@@ -51,7 +51,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### My CV
 
-My current CV `<a href="陈秋远 简历 20211109.pdf" target="_blank">`[PDF]`</a>`. last updated: 2021.11.09.
+My current CV `<a href="陈秋远 简历 20250700.pdf" target="_blank">`[PDF]`</a>`. last updated: 2021.11.09.
 
 <!--
 ### Template
