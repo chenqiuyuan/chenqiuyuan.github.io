@@ -43,7 +43,7 @@ AI for Software Engineering, Program Comprehension, Documentation Generation for
 
 <!-- My [[CV]](./陈秋远_简历_latest.pdf). last updated: 2025.07.20. Feel free to read it if you find this comment -->
 
-Curriculum Vitae
+### Curriculum Vitae
 
 For professional inquiries, my CV is available upon request. Please feel free to contact me via email at joeqychen@tencent.com.
 
