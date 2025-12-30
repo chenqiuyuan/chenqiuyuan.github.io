@@ -41,8 +41,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 AI for Software Engineering, Program Comprehension, Documentation Generation for SE.
 
-My [[CV]](./陈秋远_简历_latest.pdf). last updated: 2025.07.20
+<!-- My [[CV]](./陈秋远_简历_latest.pdf). last updated: 2025.07.20. Feel free to read it if you find this comment -->
 
+Curriculum Vitae
+
+For professional inquiries, my CV is available upon request. Please feel free to contact me via email at joeqychen@tencent.com.
+
+Last Updated: December 30, 2025
+
+Notice:​
+
+This CV is intended for legitimate recruitment purposes only. Unauthorized use, distribution, or scraping of my contact information is strictly prohibited. If you are interested in collaboration or employment opportunities, please contact me directly.
 
 <!--
 ### Template
