@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 当前，我（陈秋远）就职于腾讯公司并担任高级研究员。2023年，我加入腾讯“技术大咖”人才计划（今“青云计划”），负责大模型在代码补全场景的端到端应用及线上效果提升。包括但不限于研制高质量数据，对代码大模型进行后训练，以及对上线产品调优。
 
-我是浙江大学计算机科学与技术学院2017级博士，于2022年获得博士学位。很荣幸我在科研道路上获得了李善平教授和夏鑫博士的指导。在攻博期间，我的研究领域包括智能化软件工程与软件数据挖掘等，研究的主要对象是代码文档。在软件工程中，代码文档是帮助开发者理解程序的重要载体。他的研究致力于智能化的程序理解，达到自动化的文档生成，从而帮助提升软件统的开发效率与可维护性。陈秋远在攻读博士学位期间完成了学术论文10余篇，并发表于国内外期刊和会议，包括软件工程顶级会议ICSE（International Conference on Software Engineering），顶级期刊 TOSEM（ACM Transactions on Software Engineering and Methodologys）、软件学报等。
+我是浙江大学计算机科学与技术学院2017级博士，于2022年获得博士学位。很荣幸我在科研道路上获得了李善平教授和夏鑫博士的指导。在攻博期间，我的研究领域包括智能化软件工程与软件数据挖掘等，研究的主要对象是代码文档。在软件工程中，代码文档是帮助开发者理解程序的重要载体。他的研究致力于智能化的程序理解，达到自动化的文档生成，从而帮助提升软件系统的开发效率与可维护性。陈秋远在攻读博士学位期间完成了学术论文10余篇，并发表于国内外期刊和会议，包括软件工程顶级会议ICSE（International Conference on Software Engineering），顶级期刊 TOSEM（ACM Transactions on Software Engineering and Methodologys）、软件学报等。
 
 ### Google Scholar
 
@@ -60,7 +60,21 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Publication
 
+2023
+
+[journal 5] Han Hu, Yujin Huang, **Qiuyuan Chen**, Terry Yue Zhuo, Chunyang Chen. 2023. ‘A First Look at On-Device Models in iOS Apps’[J]. ACM Transactions on Software Engineering and Methodology (TOSEM). vol. 33, no. 1. pp. 26:1–26:30. ACM.
+**(CCF Rank A)** Journal Accepted.
+[[DOI]](https://doi.org/10.1145/3617177)
+
 2022
+
+[conference 10] Zhiyuan Wan, Xin Xia, Yun Zhang, David Lo, Daibing Zhou, **Qiuyuan Chen**, Ahmed E. Hassan. 2022. ‘What Motivates Software Practitioners to Contribute to Inner Source?’[C]. in Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE).
+**(CCF Rank A)** Conference Accepted.
+[[DOI]](https://doi.org/10.1145/3540250.3549148)
+
+[conference 9] **Qiuyuan Chen**, Zezhou Yang, Zhongxin Liu, Shanping Li, Cuiyun Gao. 2022. ‘Parameter Description Generation with the Code Parameter Flow’[C]. in 2022 IEEE 22nd International Conference on Software Quality, Reliability and Security (QRS), pp. 884–895.
+**(CCF Rank C)** Conference Accepted.
+[[DOI]](https://doi.org/10.1109/QRS57517.2022.00093)
 
 [conference 8] **Qiuyuan Chen**, Dezhen Kong, Lingfeng Bao, Chenxing Sun, Xin Xia, Shanping Li.
 "Code Reviewer Recommendation in Tencent: Practice, Challenge and Direction".
