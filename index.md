@@ -60,6 +60,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Publication
 
+2026
+
+[conference 11] Hanzhen Lu, Lishui Fan, Jiachi Chen, **Qiuyuan Chen**, Zhao Wei, Zhongxin Liu. 2026. ‘Balancing Latency and Accuracy of Code Completion via Local-Cloud Model Cascading’[C]. in Proceedings of the 34th ACM International Conference on the Foundations of Software Engineering (FSE).
+**(CCF Rank A)** Conference Accepted.
+[[URL]](https://conf.researchr.org/details/fse-2026/fse-2026-research-papers/145/Balancing-Latency-and-Accuracy-of-Code-Completion-via-Local-Cloud-Model-Cascading)
+
 2023
 
 [journal 5] Han Hu, Yujin Huang, **Qiuyuan Chen**, Terry Yue Zhuo, Chunyang Chen. 2023. ‘A First Look at On-Device Models in iOS Apps’[J]. ACM Transactions on Software Engineering and Methodology (TOSEM). vol. 33, no. 1. pp. 26:1–26:30. ACM.
