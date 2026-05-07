@@ -1,0 +1,11 @@
+# 工作目录（本地工具产物）
+.workbuddy/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# Jekyll
+_site/
+.jekyll-cache/
+.sass-cache/
