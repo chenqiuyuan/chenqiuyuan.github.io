@@ -21,7 +21,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Working Experience
 
-2023年1月-至今，在腾讯公司TEG事业群Code智能化中心，担任高级研究员。
+2023年1月-至今，在腾讯公司担任高级研究员，负责 CodeBuddy（AI 编程助手）在代码补全场景的模型研发与产品落地。
 
 2021年1月-2021年11月，在腾讯公司TEG事业群Code中心，担任实习生。
 
