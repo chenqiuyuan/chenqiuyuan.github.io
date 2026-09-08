@@ -1,5 +1,5 @@
 # 陈秋远  
-**腾讯WorkBuddy模型研发高级研究员**  
+**腾讯CodeBuddy/WorkBuddy模型研发高级研究员**  
 [Google Scholar](https://scholar.google.com/citations?user=pCvGsBkAAAAJ) | [邮件](joeqychen@tencent.com)
 
 <!-- You can use the [editor on GitHub](https://github.com/chenqiuyuan/home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## About Me
 
-博士毕业于浙江大学，方向为智能化软件工程。现任腾讯公司 WorkBuddy 团队高级研究员，2023年通过腾讯“青云计划”（前身“技术大咖”）加入腾讯。目前参与 Coding Agent 模型研发，并负责模型研发的 RSI（Recursive Self-Improvement，自进化）方向，致力于让模型获得持续学习的智能。
+博士毕业于浙江大学，方向为智能化软件工程。现任腾讯公司 CodeBuddy/WorkBuddy 团队高级研究员，2023年通过腾讯“青云计划”（前身“技术大咖”）加入腾讯。目前参与 Coding Agent 模型研发，并负责模型研发的 RSI（Recursive Self-Improvement，自进化）方向，致力于让模型获得持续学习的智能。
 
 很荣幸我在科研道路上获得了李善平教授和夏鑫博士的指导。在攻博期间，我的研究领域包括智能化软件工程与软件数据挖掘等，研究的主要对象是代码文档。在软件工程中，代码文档是帮助开发者理解程序的重要载体。我的研究致力于智能化的程序理解，达到自动化的文档生成，从而帮助提升软件系统的开发效率与可维护性。我在攻读博士学位期间完成了学术论文10余篇，并发表于国内外期刊和会议，包括软件工程顶级会议ICSE（International Conference on Software Engineering），顶级期刊 TOSEM（ACM Transactions on Software Engineering and Methodology）、软件学报等。
 
