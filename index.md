@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## About Me
 
-当前，我（陈秋远）就职于腾讯公司并担任高级研究员，2023年通过腾讯“青云计划”（前身“技术大咖”）加入公司。目前参与 Coding Agent 模型研发，并负责模型研发的 RSI（Recursive Self-Improvement，自进化）方向。
+当前，我就职于腾讯公司 CodeBuddy/WorkBuddy 团队并担任高级研究员，2023年通过腾讯“青云计划”（前身“技术大咖”）加入公司。目前参与 Coding Agent 模型研发，并负责模型研发的 RSI（Recursive Self-Improvement，自进化）方向。
 
 我是浙江大学计算机科学与技术学院2017级博士，于2022年获得博士学位。很荣幸我在科研道路上获得了李善平教授和夏鑫博士的指导。在攻博期间，我的研究领域包括智能化软件工程与软件数据挖掘等，研究的主要对象是代码文档。在软件工程中，代码文档是帮助开发者理解程序的重要载体。我的研究致力于智能化的程序理解，达到自动化的文档生成，从而帮助提升软件系统的开发效率与可维护性。我在攻读博士学位期间完成了学术论文10余篇，并发表于国内外期刊和会议，包括软件工程顶级会议ICSE（International Conference on Software Engineering），顶级期刊 TOSEM（ACM Transactions on Software Engineering and Methodology）、软件学报等。
 
