@@ -8,9 +8,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## About Me
 
-当前，我（陈秋远）就职于腾讯公司并担任高级研究员。2023年，我加入腾讯“技术大咖”人才计划（今“青云计划”），负责大模型在代码补全场景的端到端应用及线上效果提升。包括但不限于研制高质量数据，对代码大模型进行后训练，以及对上线产品调优。
+当前，我（陈秋远）就职于腾讯公司并担任高级研究员，2023年通过腾讯“青云计划”（前身“技术大咖”）加入公司。目前参与 Coding Agent 模型研发，并负责模型研发的 RSI（Recursive Self-Improvement，自进化）方向。
 
-我是浙江大学计算机科学与技术学院2017级博士，于2022年获得博士学位。很荣幸我在科研道路上获得了李善平教授和夏鑫博士的指导。在攻博期间，我的研究领域包括智能化软件工程与软件数据挖掘等，研究的主要对象是代码文档。在软件工程中，代码文档是帮助开发者理解程序的重要载体。他的研究致力于智能化的程序理解，达到自动化的文档生成，从而帮助提升软件系统的开发效率与可维护性。陈秋远在攻读博士学位期间完成了学术论文10余篇，并发表于国内外期刊和会议，包括软件工程顶级会议ICSE（International Conference on Software Engineering），顶级期刊 TOSEM（ACM Transactions on Software Engineering and Methodologys）、软件学报等。
+我是浙江大学计算机科学与技术学院2017级博士，于2022年获得博士学位。很荣幸我在科研道路上获得了李善平教授和夏鑫博士的指导。在攻博期间，我的研究领域包括智能化软件工程与软件数据挖掘等，研究的主要对象是代码文档。在软件工程中，代码文档是帮助开发者理解程序的重要载体。我的研究致力于智能化的程序理解，达到自动化的文档生成，从而帮助提升软件系统的开发效率与可维护性。我在攻读博士学位期间完成了学术论文10余篇，并发表于国内外期刊和会议，包括软件工程顶级会议ICSE（International Conference on Software Engineering），顶级期刊 TOSEM（ACM Transactions on Software Engineering and Methodology）、软件学报等。
 
 ### Google Scholar
 
@@ -21,9 +21,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Working Experience
 
-2023年1月-至今，在腾讯公司担任高级研究员，负责 CodeBuddy（AI 编程助手）在代码补全场景的模型研发与产品落地。
+2026年4月-至今，在腾讯公司担任高级研究员，参与 Coding Agent 模型研发，负责合版（多场景能力融合）方向的算法策略研究与落地。
 
-2021年1月-2021年11月，在腾讯公司TEG事业群Code中心，担任实习生。
+2023年1月-2026年3月，在腾讯公司担任高级研究员，负责 CodeBuddy（AI 编程助手）代码补全场景的模型研发与产品落地。
+
+2021年1月-2021年11月，在腾讯公司工蜂项目组（代码托管与研发协作平台），担任实习生。
 
 2017年4月-2018年12月，在恒天软件有限公司，担任实习生。
 
@@ -33,13 +35,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 2017年9月-2022年12月，直接攻博（直博）于浙江大学计算机科学与技术学院，获得博士学位
 
-2013年9月-2017年6月，本科就读于电子科技大学信息于软件工程学院，获得学士学位
+2013年9月-2017年6月，本科就读于电子科技大学信息与软件工程学院，获得学士学位
 
 2010年9月-2013年6月，高中就读于四川省成都市第七中学
 
 ### Research Interest
 
-AI for Software Engineering, Program Comprehension, Documentation Generation for SE.
+Large Language Models (LLMs), Recursive Self-Improvement (RSI).
 
 <!-- My [[CV]](./陈秋远_简历_latest.pdf). last updated: 2025.07.20. Feel free to read it if you find this comment -->
 
